@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Engine-Unity-blueviolet" alt="Unity Version">
-    <img src="https://img.shields.io/badge/Version-Beta-green" alt="Game Version">
+    <img src="https://img.shields.io/badge/Engine-Unity-white" alt="Unity Version">
+    <img src="https://img.shields.io/badge/Version-Beta-blue" alt="Game Version">
 </p>
 
 ## Проект
