@@ -1,7 +1,7 @@
 <p align="center">
-      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacker/blob/main/Imgs/1.jpg' height=440>
-      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacker/blob/main/Imgs/2.jpg' height=440>
-      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacker/blob/main/Imgs/3.jpg' height=440>
+      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacker/blob/main/Imgs/1.jpg' height=220>
+      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacker/blob/main/Imgs/2.jpg' height=220>
+      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacker/blob/main/Imgs/3.jpg' height=220>
 </p>
 
 <p align="center">
