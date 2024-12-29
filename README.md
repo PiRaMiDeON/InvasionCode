@@ -1,11 +1,11 @@
 <p align="center">
-      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacker/blob/main/Imgs/1.jpg' width=440>
+      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacker/blob/main/Imgs/1.jpg' width=880>
 </p>
 <p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacker/blob/main/Imgs/2.jpg' width=440>
+      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacker/blob/main/Imgs/2.jpg' width=880>
 </p>
 <p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacker/blob/main/Imgs/3.jpg' width=440>
+      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacker/blob/main/Imgs/3.jpg' width=880>
 </p>
 
 <p align="center">
