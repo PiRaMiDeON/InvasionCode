@@ -1,12 +1,16 @@
 <p align="center">
-      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacke/blob/main/Imgs/1.jpg' width=220>
-      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacke/blob/main/Imgs/2.jpg' width=220>
-      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacke/blob/main/Imgs/3.jpg' width=220>
+      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacker/blob/main/Imgs/1.jpg' width=880>
+</p>
+<p align="center"> 
+      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacker/blob/main/Imgs/2.jpg' width=880>
+</p>
+<p align="center"> 
+      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacker/blob/main/Imgs/3.jpg' width=880>
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Engine-Unity-blueviolet" alt="Unity Version">
-    <img src="https://img.shields.io/badge/Version-Beta-green" alt="Game Version">
+    <img src="https://img.shields.io/badge/Engine-Unity-white" alt="Unity Version">
+    <img src="https://img.shields.io/badge/Version-Beta-blue" alt="Game Version">
 </p>
 
 ## Проект
@@ -18,13 +22,13 @@
 ## Скриншоты игры
 
 <p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacke/blob/main/Imgs/Screenshot1.jpg' height=220>
+      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacker/blob/main/Imgs/Screenshot1.jpg' width=440>
 </p>
 <p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacke/blob/main/Imgs/Screenshot2.jpg' height=220> 
+      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacker/blob/main/Imgs/Screenshot2.jpg' width=440> 
 </p>
 <p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacke/blob/main/Imgs/Screenshot3.jpg' height=220>
+      <img src='https://github.com/PiRaMiDeON/InvasionCode-MissionHacker/blob/main/Imgs/Screenshot3.jpg' width=440>
 </p>
       
 ## Процесс разработки
